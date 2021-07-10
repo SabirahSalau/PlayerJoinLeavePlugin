@@ -1,0 +1,7 @@
+name: PlayerJoinLeavePlugin
+version: ${project.version}
+main: me.glass_waves.playerjoinleaveplugin.PlayerJoinLeavePlugin
+api-version: 1.17
+authors: [ Glass_Waves ]
+description: Announcement when player joins/leaves server.
+website: https://www.youtube.com/channel/UCdjJ3FK01WlxrZrNlWGZD1A
